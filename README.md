@@ -4,7 +4,7 @@
 The Peak Sales Website is a modern, interactive, and responsive site built to showcase Peak Sales' services. The website was created as part of my internship project at Peak Sales.
 
 ## Live Demo
-[Peak Sales Website](http://peaksales.in)
+[peaksales.in](http://peaksales.in)
 
 ## Technology Stack
 - **Frontend:** HTML, CSS (Bootstrap), JavaScript
